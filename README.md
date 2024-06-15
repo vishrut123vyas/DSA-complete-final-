@@ -5,6 +5,6 @@ Full DSA in java from beginner level
    - Relational
    - Logical
    - Assignment
-    
-2) Conditions
-   - 
+2) Conditons    
+   -
+   
