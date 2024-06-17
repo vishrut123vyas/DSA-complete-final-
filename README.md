@@ -7,5 +7,7 @@ Full DSA in java from beginner level
    - Assignment
    - ternary
 2) Conditons    
-   -
+   -if else
+   - 
+   
    
