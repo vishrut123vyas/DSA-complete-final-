@@ -8,6 +8,7 @@ Full DSA in java from beginner level
    - ternary
 2) Conditons    
    -if else
-   - 
+   -switch
+   
    
    
