@@ -7,11 +7,11 @@ Full DSA in java from beginner level
    - Assignment
    - ternary
 2) Conditons    
-   - if else
-   - switch case
+   - If else
+   - Switch case
 3) Loops
-   - while loop
-   - for loop
+   - While loop
+   - For loop
           
    
    
