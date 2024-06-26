@@ -10,7 +10,8 @@ Full DSA in java from beginner level
    - if else
    - switch case
 3) Loops
-   - while  
+   - while loop
+   - for loop
           
    
    
