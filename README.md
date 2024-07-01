@@ -12,7 +12,8 @@ Full DSA in java from beginner level
 3) Loops
    - While loop
    - For loop
-   - Do while 
+   - Do while
+   - Break statement
           
    
    
