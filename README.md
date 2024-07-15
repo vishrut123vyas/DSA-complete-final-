@@ -16,6 +16,8 @@ Full DSA in java from beginner level
    - Break statement
    - Continue keyword
 4) Functions
+   - Function call
+   - call by value
           
    
    
