@@ -17,8 +17,9 @@ Full DSA in java from beginner level
    - Continue keyword
 4) Functions
    - Function call
-   - call by value
-   - fact/biocoeff
+   - Call by value
+   - Fact/biocoeff
+   - Function overloading
           
    
    
