@@ -20,6 +20,7 @@ Full DSA in java from beginner level
    - Call by value
    - Fact/biocoeff
    - Function overloading
+   - Binary to decimal
           
    
    
