@@ -22,7 +22,7 @@ Full DSA in java from beginner level
    - Function overloading
    - Binary to decimal
    - Decimal to binary
-   - prime by function
+   - Prime by function
           
    
    
