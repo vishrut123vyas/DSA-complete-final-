@@ -21,7 +21,8 @@ Full DSA in java from beginner level
    - Fact/biocoeff
    - Function overloading
    - Binary to decimal
-   - Decimal to binary 
+   - Decimal to binary
+   - prime by function
           
    
    
