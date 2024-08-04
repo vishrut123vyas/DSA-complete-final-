@@ -23,6 +23,7 @@ Full DSA in java from beginner level
    - Binary to decimal
    - Decimal to binary
    - Prime by function
+   
           
    
    
