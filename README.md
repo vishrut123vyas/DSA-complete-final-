@@ -24,6 +24,7 @@ Full DSA in java from beginner level
    - Decimal to binary
    - Prime by function
 5) Pattern
+   - Halfpyramid
 
    
           
