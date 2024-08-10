@@ -25,6 +25,7 @@ Full DSA in java from beginner level
    - Prime by function
 5) Pattern
    - Halfpyramid
+   - reverse
 
    
           
