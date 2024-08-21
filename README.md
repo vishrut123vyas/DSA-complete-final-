@@ -26,7 +26,7 @@ Full DSA in java from beginner level
 5) Pattern
    - Halfpyramid
    - Inverted
-   - inverted half with num
+   - Inverted half with num
      
 
    
