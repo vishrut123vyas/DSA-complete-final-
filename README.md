@@ -27,6 +27,7 @@ Full DSA in java from beginner level
    - Halfpyramid
    - Inverted
    - Inverted half with num
+   - Floyds triangle
      
 
    
