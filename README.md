@@ -28,6 +28,7 @@ Full DSA in java from beginner level
    - Inverted
    - Inverted half with num
    - Floyds triangle
+   - Inverted rotated
      
 
    
