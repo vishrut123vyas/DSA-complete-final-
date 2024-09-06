@@ -30,6 +30,7 @@ Full DSA in java from beginner level
    - Floyds triangle
    - Inverted rotated
    - triangle pattern
+   - hollow triangle
      
 
    
