@@ -31,6 +31,7 @@ Full DSA in java from beginner level
    - Inverted rotated
    - Triangle pattern
    - Hollow triangle
+   - butterfly pattern
      
 
    
