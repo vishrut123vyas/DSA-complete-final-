@@ -34,7 +34,7 @@ Full DSA in java from beginner level
    - Butterfly pattern
 6)  Array
    - Input Update
-   -    
+   - Reverse array
    
           
    
