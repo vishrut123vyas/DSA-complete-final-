@@ -35,6 +35,7 @@ Full DSA in java from beginner level
 6)  Array
    - Input Update
    - Reverse array
+   - Pairs in array
    
           
    
