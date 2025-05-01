@@ -40,7 +40,7 @@ Full DSA in java from beginner level
    - Largest in array
    - Occurrence
    - Buysell Stock
-   - trapped Water problem
+   - Trapped Water problem
      
    
           
