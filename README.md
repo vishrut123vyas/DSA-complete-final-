@@ -34,15 +34,15 @@ Full DSA in java from beginner level
    - Butterfly pattern
      
  6)  Array
-    - Input Update
-    - Reverse array
-    - Pairs in array
-    - Subarray
-    - Largest in array
-    - Occurrence
-    - Buysell Stock
-    - Trapped Water problem
-    - 2D Array
+   -  Input Update
+   -  Reverse array
+   -  Pairs in array
+   -  Subarray
+   -  Largest in array
+   - Occurrence
+   - Buysell Stock
+   - Trapped Water problem
+   - 2D Array
      
    
           
