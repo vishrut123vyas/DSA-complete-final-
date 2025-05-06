@@ -32,8 +32,8 @@ Full DSA in java from beginner level
    - Triangle pattern
    - Hollow triangle
    - Butterfly pattern
-     
- 6)  Array
+
+6)  Array
    -  Input Update
    -  Reverse array
    -  Pairs in array
