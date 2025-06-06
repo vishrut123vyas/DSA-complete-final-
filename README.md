@@ -32,7 +32,6 @@ Full DSA in java from beginner level
    - Triangle pattern
    - Hollow triangle
    - Butterfly pattern
-
 6)  Array
    -  Input Update
    -  Reverse array
@@ -43,6 +42,7 @@ Full DSA in java from beginner level
    - Buysell Stock
    - Trapped Water problem
    - 2D Array
+   - Spiral Matrix
      
    
           
