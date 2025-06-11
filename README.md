@@ -42,6 +42,7 @@ Full DSA in java from beginner level
    - Buysell Stock
    - Trapped Water problem
    - 2D Array
+   - Diagonal Sum
    - Spiral Matrix
      
    
