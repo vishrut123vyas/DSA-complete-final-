@@ -45,6 +45,8 @@ Full DSA in java from beginner level
    - Diagonal Sum
    - Spiral Matrix
    - Sorted Array Search
+ 7) Sorting Algorithm
+   -
      
    
           
