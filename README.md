@@ -46,7 +46,7 @@ Full DSA in java from beginner level
    - Spiral Matrix
    - Sorted Array Search
  7) Sorting Algorithm
-   -
+   - Binary Search
      
    
           
