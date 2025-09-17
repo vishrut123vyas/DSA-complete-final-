@@ -47,6 +47,7 @@ Full DSA in java from beginner level
    - Sorted Array Search
  7) Sorting Algorithm
    - Binary Search
+   - Linear Search
      
    
           
