@@ -47,7 +47,7 @@ Full DSA in java from beginner level
    - Sorted Array Search
  7) Sorting Algorithm
    - Bubble Sort
-   - Linear Search
+   - Insertion Sort
      
    
           
