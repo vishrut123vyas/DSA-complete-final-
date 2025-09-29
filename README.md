@@ -48,6 +48,7 @@ Full DSA in java from beginner level
  7) Sorting Algorithm
    - Bubble Sort
    - Insertion Sort
+   - Selection Sort
      
    
           
