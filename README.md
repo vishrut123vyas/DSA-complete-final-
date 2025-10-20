@@ -49,7 +49,7 @@ Full DSA in java from beginner level
    - Bubble Sort
    - Insertion Sort
    - Selection Sort
-   - quick sort
+   - Quick sort
      
    
           
